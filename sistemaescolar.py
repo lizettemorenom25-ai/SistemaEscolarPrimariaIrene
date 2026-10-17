@@ -197,7 +197,6 @@ def main():
         else:
             print("Opción no válida. Intenta nuevamente.")
 
-
 # Punto de entrada
 if __name__ == "__main__":
     main()
